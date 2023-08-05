@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dev Launcher", "Dev Launcher\Dev Launcher.csproj", "{7EB2465E-CE49-48FC-8F4B-6C07C05DDD27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		x64|Any CPU = x64|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EB2465E-CE49-48FC-8F4B-6C07C05DDD27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EB2465E-CE49-48FC-8F4B-6C07C05DDD27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EB2465E-CE49-48FC-8F4B-6C07C05DDD27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EB2465E-CE49-48FC-8F4B-6C07C05DDD27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EB2465E-CE49-48FC-8F4B-6C07C05DDD27}.x64|Any CPU.ActiveCfg = x64|Any CPU
+		{7EB2465E-CE49-48FC-8F4B-6C07C05DDD27}.x64|Any CPU.Build.0 = x64|Any CPU
+	EndGlobalSection
+EndGlobal

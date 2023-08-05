@@ -1,0 +1,16 @@
+F:\VS Projects\Dev Launcher\Dev Launcher\bin\Debug\net7.0\Dev Launcher.exe
+F:\VS Projects\Dev Launcher\Dev Launcher\bin\Debug\net7.0\Dev Launcher.deps.json
+F:\VS Projects\Dev Launcher\Dev Launcher\bin\Debug\net7.0\Dev Launcher.runtimeconfig.json
+F:\VS Projects\Dev Launcher\Dev Launcher\bin\Debug\net7.0\Dev Launcher.dll
+F:\VS Projects\Dev Launcher\Dev Launcher\bin\Debug\net7.0\Dev Launcher.pdb
+F:\VS Projects\Dev Launcher\Dev Launcher\obj\Debug\net7.0\Dev Launcher.csproj.AssemblyReference.cache
+F:\VS Projects\Dev Launcher\Dev Launcher\obj\Debug\net7.0\Dev Launcher.GeneratedMSBuildEditorConfig.editorconfig
+F:\VS Projects\Dev Launcher\Dev Launcher\obj\Debug\net7.0\Dev Launcher.AssemblyInfoInputs.cache
+F:\VS Projects\Dev Launcher\Dev Launcher\obj\Debug\net7.0\Dev Launcher.AssemblyInfo.cs
+F:\VS Projects\Dev Launcher\Dev Launcher\obj\Debug\net7.0\Dev Launcher.csproj.CoreCompileInputs.cache
+F:\VS Projects\Dev Launcher\Dev Launcher\obj\Debug\net7.0\Dev Launcher.dll
+F:\VS Projects\Dev Launcher\Dev Launcher\obj\Debug\net7.0\refint\Dev Launcher.dll
+F:\VS Projects\Dev Launcher\Dev Launcher\obj\Debug\net7.0\Dev Launcher.pdb
+F:\VS Projects\Dev Launcher\Dev Launcher\obj\Debug\net7.0\Dev Launcher.genruntimeconfig.cache
+F:\VS Projects\Dev Launcher\Dev Launcher\obj\Debug\net7.0\ref\Dev Launcher.dll
+F:\VS Projects\Dev Launcher\Dev Launcher\obj\Debug\net7.0\Dev Launcher.csproj.Fody.CopyLocal.cache

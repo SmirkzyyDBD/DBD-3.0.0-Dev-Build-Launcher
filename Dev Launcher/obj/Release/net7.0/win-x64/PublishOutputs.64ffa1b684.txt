@@ -1,0 +1,2 @@
+F:\VS Projects\Dev Launcher\Dev Launcher\bin\Release\net7.0\publish\New folder\Dev Launcher.pdb
+F:\VS Projects\Dev Launcher\Dev Launcher\bin\Release\net7.0\publish\New folder\Dev Launcher.exe
